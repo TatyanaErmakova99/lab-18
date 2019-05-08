@@ -2,6 +2,6 @@ public class Main
 {
     public static void main(String argc[])
     {
-        NootepadWindow nootepad = new NootepadWindow("Блокнот", 400, 550);
+        NootepadWindow nootepad = new NootepadWindow("Р‘Р»РѕРєРЅРѕС‚", 400, 550);
     }
 }
