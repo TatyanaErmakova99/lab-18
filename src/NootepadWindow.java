@@ -24,15 +24,15 @@ public class NootepadWindow extends JFrame
 
         menuBar = new JMenuBar();
         textArea = new JTextArea();
-        mFile1 = new JMenu("Файл");
-        mFile2 = new JMenu("Правка");
-        mFile3 = new JMenu("Формат");
-        mFile4 = new JMenu("Вид");
-        mFile5 = new JMenu("Справка");
-        miNew = new JMenuItem("Создать");
-        miOpen = new JMenuItem("Открыть...");
-        miSave = new JMenuItem("Сохранить");
-        miSave1 = new JMenuItem("Сохранить как...");
+        mFile1 = new JMenu("Р¤Р°Р№Р»");
+        mFile2 = new JMenu("РџСЂР°РІРєР°");
+        mFile3 = new JMenu("Р¤РѕСЂРјР°С‚");
+        mFile4 = new JMenu("Р’РёРґ");
+        mFile5 = new JMenu("РЎРїСЂР°РІРєР°");
+        miNew = new JMenuItem("РЎРѕР·РґР°С‚СЊ");
+        miOpen = new JMenuItem("РћС‚РєСЂС‹С‚СЊ...");
+        miSave = new JMenuItem("РЎРѕС…СЂР°РЅРёС‚СЊ");
+        miSave1 = new JMenuItem("РЎРѕС…СЂР°РЅРёС‚СЊ РєР°Рє...");
 
         mFile1.add(miNew);
         mFile1.add(miSave);
